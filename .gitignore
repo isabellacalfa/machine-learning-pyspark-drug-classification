@@ -1,3 +1,9 @@
+# Meus arquivos:
+datasets/
+graficos/
+bibliografia.txt
+
+# Default:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
